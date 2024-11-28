@@ -8,7 +8,7 @@ Collection of awesome termux repositories, tools and learning resources
 
 ## AI
 
-- https://github.com/latestissue/AltaeraAI
+- https://github.com/ThinkThroughLabs/AltaeraAI
 
 ## Tutorials
 
